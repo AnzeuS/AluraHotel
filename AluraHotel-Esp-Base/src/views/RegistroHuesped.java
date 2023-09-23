@@ -7,8 +7,8 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.JTextField;
 import java.awt.Color;
 
+import com.alura.latam.hotel.ObtenerPosicion;
 import com.alura.latam.modelo.Guadar;
-import com.alura.latam.modelo.ObtenerPosicion;
 import com.toedter.calendar.JDateChooser;
 import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;

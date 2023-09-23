@@ -1,11 +1,9 @@
-package com.alura.latam.modelo;
+package com.alura.latam.hotel;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-
-import com.alura.latam.hotel.CreaConexion;
 
 public class ObtenerPosicion {
 	

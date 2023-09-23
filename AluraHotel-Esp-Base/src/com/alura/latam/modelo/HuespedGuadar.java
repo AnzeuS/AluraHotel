@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import com.alura.latam.hotel.CreaConexion;
 
-public class Guadar {
+public class HuespedGuadar {
 
 	public void ejecutarGuardar(String nombre, String apellido, String fechaSeleccionada, String nacionalidad, String telefono, int reserva) throws SQLException {
 		

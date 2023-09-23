@@ -9,7 +9,7 @@ import java.util.Date;
 
 import com.alura.latam.hotel.CreaConexion;
 
-public class CalcularDias {
+public class ReservaGuardar {
 	   
 	public  void diferenciaDias(Date fechaEntrada, Date fechaSalida, Double valor, String formaPago) throws SQLException {
 
